@@ -1,8 +1,8 @@
-# awtomasyon
+# IT Infrastructure and Enterprise Automation
 #### Technical Skills:
 ## Work Experience
-**Job 1**
-**Job 2**
+**Item 1**
+**Item 2**
 ## Education
 ## Projects
 ## Talks & Lectures

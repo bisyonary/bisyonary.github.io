@@ -1,5 +1,7 @@
-title: Dave Isla
+title: DI2
 description: Automate, automate and automate!
-show_downloads: false
-google_analytics:
 theme: jekyll-theme-hacker
+google_analytics:
+show_downloads: false
+github:
+    is_project_page: false
