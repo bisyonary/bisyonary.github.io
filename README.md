@@ -1,4 +1,4 @@
-# IT Infrastructure and Enterprise Automation
+# IT Infrastructure | Enterprise Automation
 #### Technical Skills:
 ## Work Experience
 **Item 1**
