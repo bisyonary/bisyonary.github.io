@@ -1,4 +1,4 @@
-# IT Infrastructure | IT Automation
+# IT Automation | DevOps Engineer
 #### Technical Skills:
 ## Work Experience
 **Item 1**
